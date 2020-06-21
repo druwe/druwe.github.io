@@ -6,3 +6,6 @@ Max Richter schrieb dazu das achtstündige Werk "Sleep".
 * Endlos
 * Sorglos
 * Wirklos
+
+Des Traumes größter Alptraum:
+>Ich bin schlaflos.
